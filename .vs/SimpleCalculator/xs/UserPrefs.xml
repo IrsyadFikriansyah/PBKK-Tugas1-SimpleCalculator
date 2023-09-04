@@ -1,0 +1,27 @@
+﻿<Properties StartupConfiguration="{4A1103B2-9D01-4FB3-8A0D-BA177F74F075}|Default">
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workbench ActiveDocument="SimpleCalculator/ViewController.cs">
+    <Files>
+      <File FileName="SimpleCalculator/AppDelegate.cs" Line="1" Column="1" />
+      <File FileName="SimpleCalculator/ViewController.designer.cs" Line="58" Column="1" />
+      <File FileName="SimpleCalculator/ViewController.cs" Line="18" Column="1" NotebookId="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="SimpleCalculator" expanded="True">
+            <Node name="SimpleCalculator" expanded="True">
+              <Node name="ViewController.cs" expanded="True" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.SimpleCalculator PreferredExecutionTarget="MyMacID" />
+</Properties>
